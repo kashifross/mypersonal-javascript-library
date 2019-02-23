@@ -1,0 +1,17 @@
+body {
+  background: #929D9E;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  background-color: #7F8688;
+  color: #F3E367;
+  border: 3px solid #F3E367;
+  border-radius: 50px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.18);
+  display: inline-block;
+  padding: 20px 60px;
+  text-align: center;
+  cursor: pointer;
+}
