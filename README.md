@@ -1,3 +1,3 @@
 # mypersonal-javascript-library
 
-This set of files includes solutions to algorithm problems that created. Many of these are solutions from problems posed from The Odin Project.
+This set of files includes solutions to algorithms and other Javascript exercises that I created.
